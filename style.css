@@ -1,0 +1,47 @@
+.custom-fontColor{
+    color: #FF5555;
+}
+
+.custom-bg-color{
+    background-color: #FF5555;
+}
+
+.custom-hover:hover{
+    color: #FF5555;
+}
+
+.custom-color{
+    background-color: black;
+}
+
+.custom-color-hover:hover{
+    background-color: rgb(32, 32, 32);
+}
+
+.benefit{
+    background-image: url("./photos/bg1.png");
+}
+
+
+.feature{
+    background-image: url('./photos/bg2.png');
+}
+
+.addv{
+    background-image: url("./photos/bg3.png");
+}
+
+
+.addv1{
+    background-image: url("./photos/bg4.png");
+}
+
+
+.features{
+    background-image: url("./photos/bg5.png");
+}
+
+
+.iimg{
+    background-image: url("./photos/bg7.png");
+}
